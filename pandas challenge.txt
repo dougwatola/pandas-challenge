@@ -1,0 +1,7 @@
+Pandas Challenge
+Doug Watola 1 October 19
+
+Here are three high level observations from the Heroes Of Pymoli purchase data:
+•	Male players account for 84% of the players as opposed to 15% of females.  However, the average total purchases per player is approximately 10% higher with females than with males.  
+•	The 20-24 age demographic accounts for 63.37% of the players and is generating the most revenue.
+•	The Oathbreaker, Last Hope of the Breaking Storm was the largest selling item in the game and generated the largest total purchase value.  The difference between the total purchase value for the top five items was not that much considering the total revenue from the game is $2,380.
